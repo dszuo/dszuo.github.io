@@ -2,8 +2,7 @@ body {
     font-family: 'Mulish', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei',
                  'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif;
     font-size: 18px;
-    padding-top: 0px;
-    /*padding-top: 62px;*/
+    padding-top: 48px;
 }
 
 ul {
@@ -33,11 +32,6 @@ hr {
     text-indent: -25px;
 }
 
-.li-nav-item {
-    text-align: center;
-    margin-bottom: 0.5em;
-    list-style-position: inside;
-}
 
 
 .li-pub-award{
@@ -50,38 +44,10 @@ hr {
     font-weight: bold;
 }
 
-.navbar {
-    background: #DDDDDD;
-    padding: 0.1rem 1rem;
-}
 
-.collapse hr {
-    max-width: 100px;
-    height: 5px;
-    border-top: 3px solid #e03333;
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
 
-.navbar-light .navbar-nav .nav-link {
-    font-weight: bold;
-    color: #0074bc;
-    margin-top: 8px;
-    font-size: 20px;
-}
 
-.navbar-light .navbar-nav .nav-link:hover {
-    color: #996600 ;
-}
 
-.navbar-nav li:hover>ul.dropdown-menu {
-    margin-top: -8px;
-    display: block;
-}
-.navbar-brand {
-    margin-left: 0px;
-    align-items: flex-end;
-}
                   
 .newsblock{
     background-color: #ffffee;
