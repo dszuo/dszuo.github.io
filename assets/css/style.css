@@ -220,6 +220,11 @@ hr {
     color: #996600;
 }
 
+.pub-title sup {
+    font-size: 0.62em;
+    line-height: 0;
+}
+
 .pub-award {
     display: inline-block;
     font-size: 12px;
